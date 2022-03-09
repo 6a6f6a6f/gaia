@@ -4,5 +4,6 @@ public enum ScanType
 {
     Udp,
     Tcp,
-    Icmp
+    Icmp,
+    Unknown
 }
